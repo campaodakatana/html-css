@@ -12,6 +12,11 @@
     background-size: 100%;
 }
 
+.limbo {
+    color: #d5e1ef;
+    text-align: center;
+}
+
 /* central box */
 .box {
     position: relative;
